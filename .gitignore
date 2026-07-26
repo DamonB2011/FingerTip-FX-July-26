@@ -1,5 +1,8 @@
 node_modules/
 vision_bundle.js
+vision_wasm*
 wasm/
 gesture_recognizer.task
+hand_landmarker.task
+yoha/
 .DS_Store
