@@ -1,0 +1,5 @@
+node_modules/
+vision_bundle.js
+wasm/
+gesture_recognizer.task
+.DS_Store
