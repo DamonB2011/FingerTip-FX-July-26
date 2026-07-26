@@ -1,5 +1,17 @@
 # FingerTip-FX-July-26
 
+## Demo
+
+Real-time tracking on both hands, cycling through effects with a fist, and a look at Dual Rectangle Mode kicking in once both hands leave and re-enter frame.
+
+**Part 1 - Dual Rectangle + Effects**
+
+https://github.com/user-attachments/assets/fbf3bbcc-8c0e-4dea-a3d7-43f08ae7cc89
+
+**Part 2 - Double-Hand Mode**
+
+https://github.com/user-attachments/assets/ad3f3420-363e-4519-8010-6a2da3cb9fbb
+
 I built this to see how far I could push real-time hand tracking in a browser using nothing but a webcam and MediaPipe. It tracks your fingertips, draws a live polygon between them, and fills that shape with glitch-art effects that react to your hand gestures. No backend, no API calls after the models are downloaded once - it all just runs on your machine.
 
 ## What it actually does
